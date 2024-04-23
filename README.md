@@ -1,5 +1,4 @@
 # IPL-data-Analysis
-Project Overview
 This project presents a comprehensive data engineering solution for analyzing datasets from the Indian Premier League (IPL). Utilizing Apache Spark, I efficiently processed large volumes of cricket match data, stored in Amazon S3, to uncover valuable insights.
 
 Architecture
